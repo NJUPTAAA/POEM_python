@@ -1,2 +1,2 @@
-# POEM_python
+# POEM python
 python package for POEM
